@@ -1,2 +1,2 @@
-# we-wbsite
+# we-website
 this wonderful page
